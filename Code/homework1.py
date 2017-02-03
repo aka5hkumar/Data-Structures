@@ -1,10 +1,10 @@
 #Akash Kumar
 #Question 1
-    #example1: Constant time
-    #example2: constant time
-    #example3: time n
-    #example4: time n
-    #example5: time n^2
+    #example1: O(1)
+    #example2: O(1)
+    #example3: O(n)
+    #example4: O(n)
+    #example5: O(n^2)
 #Questions 2
 def merge(a,b):
     for i in range (min(len(a), len(b))):
