@@ -1,0 +1,4 @@
+defn f(n)=theta(n) if there exists c1, c2, n0 >0
+such that
+for all n>= n0
+c1n >= f(n) <= c2n
