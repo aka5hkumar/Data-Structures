@@ -1,8 +1,8 @@
 #Akash Kumar
 #Question 1
-    #example1: O(1)
-    #example2: O(1)
-    #example3: O(n)
+    #example1: O(n)
+    #example2: O(n)
+    #example3: O(n^2)
     #example4: O(n)
     #example5: O(n^2)
 #Questions 2
